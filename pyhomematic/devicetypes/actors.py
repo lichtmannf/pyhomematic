@@ -902,4 +902,5 @@ DEVICETYPES = {
     "HmIP-MIOB": IPMultiIO,
     "HM-DW-WM": Dimmer,
     "HM-LC-DW-WM": ColdWarmDimmer,
+    "HB-UNI-SenAct-4-4-RC" : IOSwitch,   
 }
